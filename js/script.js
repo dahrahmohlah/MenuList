@@ -1,0 +1,1 @@
+document.getElementById("footr").innerHTML = "<p>&copy;  " + new Date().getFullYear() + " All Rights Reserved.</p>";
